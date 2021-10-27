@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Opinion Classifier NLP processing sample",
+  "main": "app.js",
+  "dependencies": {
+    "brain": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
